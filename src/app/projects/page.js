@@ -157,7 +157,7 @@ export default function ProjectsPage() {
                 <span className="footer-brand-accent">N</span>eila <span className="footer-brand-accent">•</span>
               </p>
               <p className="footer-desc">
-                Third-year Artificial Intelligence student & Full Stack developer.
+                Third-year AI student at Numidia Institute of Technology (NIT) & Full Stack developer.
               </p>
               <div className="footer-social-circles">
                 <a href="https://github.com/Berkaneneila" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>

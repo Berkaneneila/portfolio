@@ -86,7 +86,7 @@ export default function CvContent() {
       <div className="cv-section">
         <h2 className="cv-section-title">Education</h2>
 
-        <p className="cv-company">University, Algiers, Algeria</p>
+        <p className="cv-company">Numidia Institute of Technology (NIT), Algiers, Algeria</p>
         <p className="cv-role">Bachelor&apos;s Degree in Artificial Intelligence</p>
         <p className="cv-date">Sep 2022 – Jun 2026</p>
         <p><strong>Relevant Coursework:</strong> Object-Oriented Programming, Databases, Machine Learning, Deep Learning, Computer Vision, Statistics and Probability, Computer Networks, Scientific English Writing.</p>

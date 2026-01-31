@@ -17,10 +17,10 @@ export default function EducationPage() {
               <div className="education-card-icon" aria-hidden><span>1</span></div>
               <div className="education-card-content">
                 <h2 className="education-degree">1st-year Bachelor&apos;s degree in Artificial Intelligence</h2>
-                <p className="education-institution">University</p>
+                <p className="education-institution">Numidia Institute of Technology (NIT)</p>
                 <div className="education-meta">
                   <span className="education-date">2023 – 2024</span>
-                  <span className="education-location">Algeria, Algiers</span>
+                  <span className="education-location">Algiers, Algeria</span>
                 </div>
                 <ul className="education-list">
                   <li>Foundational knowledge in programming (Python, C)</li>
@@ -38,10 +38,10 @@ export default function EducationPage() {
               <div className="education-card-icon" aria-hidden><span>2</span></div>
               <div className="education-card-content">
                 <h2 className="education-degree">2nd-year Bachelor&apos;s degree in Artificial Intelligence</h2>
-                <p className="education-institution">University</p>
+                <p className="education-institution">Numidia Institute of Technology (NIT)</p>
                 <div className="education-meta">
                   <span className="education-date">2024 – 2025</span>
-                  <span className="education-location">Algeria, Algiers</span>
+                  <span className="education-location">Algiers, Algeria</span>
                 </div>
                 <ul className="education-list">
                   <li>Data structures, algorithms, and databases</li>
@@ -59,10 +59,10 @@ export default function EducationPage() {
               <div className="education-card-icon" aria-hidden><span>3</span></div>
               <div className="education-card-content">
                 <h2 className="education-degree">3rd-year Bachelor&apos;s degree in Artificial Intelligence</h2>
-                <p className="education-institution">University</p>
+                <p className="education-institution">Numidia Institute of Technology (NIT)</p>
                 <div className="education-meta">
                   <span className="education-date">2025 – 2026</span>
-                  <span className="education-location">Algeria, Algiers</span>
+                  <span className="education-location">Algiers, Algeria</span>
                 </div>
                 <ul className="education-list">
                   <li>Machine learning and AI fundamentals</li>
@@ -171,7 +171,7 @@ export default function EducationPage() {
                 <span className="footer-brand-accent">N</span>eila <span className="footer-brand-accent">•</span>
               </p>
               <p className="footer-desc">
-                Third-year Artificial Intelligence student & Full Stack developer.
+                Third-year AI student at Numidia Institute of Technology (NIT) & Full Stack developer.
               </p>
               <div className="footer-social-circles">
                 <a href="https://github.com/Berkaneneila" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>

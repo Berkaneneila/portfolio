@@ -45,7 +45,7 @@ export default function Home() {
               Artificial Intelligence · Full Stack Developer · Web & Data
             </p>
             <p className="hero-desc">
-              Third-year Artificial Intelligence undergraduate student with a strong
+              Third-year AI undergraduate student at Numidia Institute of Technology (NIT) with a strong
               background in full stack development, passionate about building intelligent,
               scalable, and user-focused digital solutions.
             </p>
@@ -105,7 +105,7 @@ export default function Home() {
             </header>
             <div className="about-content">
               <p className="about-bio">
-                I am <strong>Neila</strong>, a third-year undergraduate student in <strong>Artificial Intelligence</strong>. I have also completed a professional training program in <strong>Full Stack Development</strong>. My interests lie at the intersection of AI, data, and modern web technologies, where I enjoy transforming ideas into efficient and impactful applications.
+                I am <strong>Neila</strong>, a third-year undergraduate student in <strong>Artificial Intelligence</strong> at <strong>Numidia Institute of Technology (NIT)</strong>. I have also completed a professional training program in <strong>Full Stack Development</strong>. My interests lie at the intersection of AI, data, and modern web technologies, where I enjoy transforming ideas into efficient and impactful applications.
               </p>
               <div className="about-focus">
                 <div className="about-focus-card">
@@ -339,7 +339,7 @@ export default function Home() {
                 <span className="footer-brand-accent">N</span>eila <span className="footer-brand-accent">•</span>
               </p>
               <p className="footer-desc">
-                Third-year Artificial Intelligence student & Full Stack developer. I enjoy transforming ideas into efficient, impactful applications at the intersection of AI, data, and web technologies.
+                Third-year AI student at Numidia Institute of Technology (NIT) & Full Stack developer. I enjoy transforming ideas into efficient, impactful applications at the intersection of AI, data, and web technologies.
               </p>
               <div className="footer-social-circles">
                 <a href="https://github.com/Berkaneneila" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
